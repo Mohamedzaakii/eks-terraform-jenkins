@@ -30,7 +30,7 @@ min_capacity_on_demand     = "1"
 max_capacity_on_demand     = "2"
 desired_capacity_spot      = "0"
 min_capacity_spot          = "0"
-max_capacity_spot          = "0"
+max_capacity_spot          = "1"
 addons = [
   {
     name    = "vpc-cni",
